@@ -6,6 +6,8 @@ the default planck layout is hard to use! we are symmetrical, and we need 2 shif
 
 so here comes the crab layout
 
+it's a happy crab... i rotate that [image](https://www.flaticon.com/free-icons/crab) 180 degrees...
+
 # layer0 ~ layer3
 
 ![](2023-03-07/layer_0.png)
@@ -45,11 +47,11 @@ so here comes the crab layout
 
 	based on 2 pictures
 
-	- xahlee's punctuations frequency
+	- [xahlee's punctuations frequency](http://xahlee.info/comp/computer_language_char_distribution.html)
 
 	![](http://xahlee.info/comp/i/computer_language_char_frequency.png)
 
-	- workman's keys graded (approximately agree)
+	- [workman's keys graded (approximately agree)](https://workmanlayout.org/#back-to-the-drawing-board)
 
 	![](https://github.com/kdeloach/workman/raw/gh-pages/images/keyboard_graded_grid.png)
 
@@ -60,7 +62,5 @@ so here comes the crab layout
 	dvorak colemak carpalx colemak-dh workman norman halmak engram... none of them consider to include enter/esc in their layout
 
 # note
-
-<a href="https://www.flaticon.com/free-icons/crab" title="crab icons">Crab icons created by Freepik - Flaticon</a>
 
 `convert pic-selected-230307-1556-16.png -gravity South -pointsize 15 -fill gray -annotate 0 "https://github.com/aidancz/planck_crab" layer_0.png`
