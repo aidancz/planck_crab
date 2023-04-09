@@ -38,7 +38,7 @@ it's a happy crab... i rotate that [image](https://www.flaticon.com/free-icons/c
 
 ![](2023-03-29/layer1.png)
 
-![](2023-03-29/layer2_fix.png)
+![](2023-03-29/layer2_fix_fix.png)
 
 ![](2023-03-29/layer3_fix.png)
 
